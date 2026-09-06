@@ -47,12 +47,12 @@ JavaScript • React • Next.js • Vite • HTML5 • CSS3
 ## :globe_with_meridians: Onde me encontrar
 
 <p align="center">
-  <a href="https://www.instagram.com/dev.amorim_/">
+  <a href="https://www.instagram.com/guuh.xwz/">
     <img src="https://img.shields.io/badge/Instagram-@guuh.xwz-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
-  <a href="https://www.tiktok.com/@devakkoi">
-    <img src="https://img.shields.io/badge/TikTok-@guh.klkj-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  <a href="https://www.tiktok.com/@guh.klkj">
+    <img src="https://img.shields.io/badge/TikTok-@userhrqe-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
 
 
