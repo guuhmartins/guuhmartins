@@ -8,8 +8,6 @@ Atuo no desenvolvimento de aplicações web, trabalhando desde a construção de
 
 Gosto de criar projetos do zero, resolver problemas através da tecnologia e transformar conceitos em soluções reais. Também me interesso por **Linux, Competitive programming, CyberSegurança e comunidades de tecnologia**.
 
-↳ I love overengineering things… especially code!
-
 ---
 
 ## :computer: O que eu faço
@@ -80,7 +78,7 @@ Gosto de unir **desenvolvimento, design e criatividade** para construir experiê
 
 <div align="center">
 
-### Code. Create. Solve. Impact.
+### I love overengineering things… especially code!
 
 :star: Obrigado por visitar meu perfil!
 
